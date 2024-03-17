@@ -12,7 +12,7 @@ PHP version > 8.1
 
 ### Manual Installation
 
-Download the files from https://github.com/itsjjfurki/simple-post-votes/archive/refs/heads/main.zip, extract it, move "simple-post-votes" folder to wp-content/plugins/ directory in your WordPress site.
+Download the files from https://github.com/itsjjfurki/simple-post-votes/archive/refs/heads/main.zip, extract it, rename folder as  "simple-post-votes" and move folder to wp-content/plugins/ directory in your WordPress site.
 
 ### Via GIT
 
